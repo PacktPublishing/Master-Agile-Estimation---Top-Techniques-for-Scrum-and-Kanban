@@ -1,0 +1,3 @@
+The Impact of Irrelevant and Misleading Information on Software Development Effort Estimates
+
+https://web-backend.simula.no/sites/default/files/publications/Simula.SE.299.pdf
